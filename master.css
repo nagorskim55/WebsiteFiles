@@ -1,0 +1,90 @@
+
+
+h1 {
+
+}
+
+i {}
+}
+
+table{
+  display: inline;
+}
+
+hr {
+  border-width: 12px;
+  border-style: dotted;
+  border-bottom-style: none;
+  border-color: #E0E0E0;
+  width: 9%;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+body{
+  margin: 0px;
+  align: center;
+  font-family:  'bookman';
+
+}
+img{
+  color: #E4F9F5;
+
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.top {
+  text-align: center;
+  background-color: #18453b;
+  width: 100%;
+  height: 1000px;
+  margin: 0px;
+  background-image: url("https://images.pexels.com/photos/917494/pexels-photo-917494.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+}
+
+.wordingbox {
+  display: block;
+  height: 250px;
+  position: relative;
+  top: 100px;
+
+}
+
+.middle-container {
+  text-align: center;
+}
+
+.bottom-container {
+  height: 80px;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+  border-spacing: 15px;
+}
+
+/**.topbackground{
+  padding: 20px;
+  width: 45%;
+  height: 800px;
+  background-color: white;
+  display: inline-block;
+  text-align: left;
+
+}**/
+
+#spartan-head {
+  height: 30px;
+}
+
+#face {
+  border-radius: 100%;
+  display: inline;
+  padding: 0;
+  position: relative;
+  top: 100px;
+
+}
